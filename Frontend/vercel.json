@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:path*",
+      "destination": "https://blood-stock-prediction.onrender.com/api/:path*"
+    }
+  ]
+}
